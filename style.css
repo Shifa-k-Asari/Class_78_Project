@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 200px;
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 100px;
+    font-family: cursive;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
